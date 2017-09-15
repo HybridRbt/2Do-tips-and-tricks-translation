@@ -1,14 +1,20 @@
 # Advanced Search
 
-
+## 高级搜索
 
 [Advanced Search](https://www.2doapp.com/advanced-search/)
 
-2Do boasts the most powerful search engine on the App Store. Combined with the power of dynamic Smart Lists (a.k.a Saved Searches) you can create highly specific filters that match your needs.
+2Do boasts the most powerful search engine on the App Store. Combined with the power of dynamic Smart Lists (a.k.a Saved Searsches) you can create highly specific filters that match your needs.
+
+2Do 可以说拥有 App Store 同类 app 中最强大的搜索引擎。结合动态智能列表，（即 收藏的搜索）你可以根据你的需求创建非常具体的过滤器。
 
 ### Searching for Actions, Task Types, & Task Attributes
 
+### 搜索动作，任务类型和任务属性
+
 You can use any of the following reserved search keywords (without quotes) to filter on specific tasks. This is extremely useful when combined with dynamic Smart Search Lists. You could, for example, create a smart list on the term ‘type:audio’ and quickly navigate to all tasks with Audio notes without hunting through a long list (and without the need of changing sort options).
+
+你可以使用下列任一搜索关键词（不带引号）来筛选出具体的任务。这一功能搭配动态智能列表格外有用。比如，你可以根据关键词 “type:audio” （类型：音频）来创建一个智能列表，它可以让你快速找出所有备注中包含音频的任务，而不用在一个长长的列表中搜寻（也不需要改变排序选项）。
 
 - “type: action” – will return all tasks with any action set
 - “type: call” – will return all tasks with a Call action
