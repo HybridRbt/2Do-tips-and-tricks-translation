@@ -19,24 +19,24 @@
 
 - “type: audio” – 找出所有带有音频附件的任务
 - “type: pict” – 找出所有带有图像附件的任务
-- “type: note” – 找出所有带有备注的任务
+- “type: note” – 找出所有带有备注的任务
 
 
-- “type: proj” – 找出所有（类型是）项目（的任务）
-- “type: chck” – 找出所有（类型是）清单（的任务）
+- “type: proj” – 找出所有（类型是）项目（的任务）
+- “type: chck” – 找出所有（类型是）清单（的任务）
 - “type: task” – 找出所有（类型不是项目或清单）的任务
 
 
-- “type: hiprio” – 找出所有优先级为高的任务
-- “type: medprio” - 找出所有优先级为中的任务
+- “type: hiprio” – 找出所有优先级为高的任务
+- “type: medprio” – 找出所有优先级为中的任务
 
 
-- “type: lowprio” - 找出所有优先级为低的任务
-- “type: repeat” - 找出所有重复性的任务
-- “type: overdue” - 找出所有过期的任务
-- “type: tomorrow” - 找出所有明天到期的任务
+- “type: lowprio” – 找出所有优先级为低的任务
+- “type: repeat” – 找出所有重复性的任务
+- “type: overdue” – 找出所有过期的任务
+- “type: tomorrow” – 找出所有明天到期的任务
 - “type: today” – 找出所有今天到期的任务
-- “type: donetoday” 找出所有今天完成的任务
+- “type: donetoday” – 找出所有今天完成的任务
 
 ### 搜索标签
 
