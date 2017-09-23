@@ -1,0 +1,5 @@
+![Creating Tasks via Email](https://www.2doapp.com/creating-tasks-via-email/)
+
+Sometimes you don’t have your device with 2Do installed at hand but you still want to add some tasks to your list or inbox. The obvious way to go so is to email those tasks somewhere into the cloud and have them automatically added to all your devices when they sync the next time. As we don’t have our own cloud sync service and rely on 3rd parties instead (for reasons explained in our Knowledge Base), this isn’t unfortunately a possibility with all the sync services we support. If however you’re a Toodledo user, you are in luck.
+
+Toodledo has extensive support for emailing your tasks to their cloud service, which would then automatically sync down to all your devices running 2Do the next time they sync. You just have to turn on *Email Import* in *Tools* on Toodledo.com and you’re given a secret email address that you can then use to communicate with Toodledo. The whole process has been thoroughly explained by them in this [support article](http://www.toodledo.com/info/help_email.php).
