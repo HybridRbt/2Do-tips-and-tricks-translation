@@ -1,25 +1,16 @@
-# Inbox list 收件箱列表
+# 收件箱列表
 
 [原文链接：Inbox list](https://www.2doapp.com/tip-inbox/)
 
-Inbox is a place where all your ideas begin. It’s like a default folder for your tasks, place to collect your thoughts. 2Do doesn’t come with Inbox out of the box, but you can easily create one.
-
 收件箱是你所有想法开始的地方。它是你放置任务的默认文件夹，是收集你思想的地方。2Do 出厂时并不自带收件箱，不过你可以很轻松地创建一个。
 
-- Add a list called **Inbox**, pick any colour that fits your taste. You may want it to be separate from other lists and sit at the top of your left bar in the Mac app, so add a new List Group from the left bottom bar, name it “Collect” or whatever you like, drag it above Focus group and then drag Inbox list into the group.
 - 添加一个名为 **收件箱** 的列表，选择一个你喜欢的颜色。如果你想把它和其他列表隔开，放在你 Mac 版应用程序的左边栏顶上，你可以从左侧底栏中添加一个新列表组，命名为“收集”或者其他你喜欢的名字，拖动到 聚焦 组上方，再把收件箱列表放进这个组里。
-- You want Inbox to be your default list, so go to *Preferences > General* and select Inbox as a *Default List.*
-- 在*偏好设置 > 通用* 中可以将收件箱设置为*默认列表*。
-- Since you don’t want to show your Inbox tasks anywhere else until they are revised, given due date and Area of Responsibility, right-click the Inbox list and select “Don’t show in All”.
+- 在*偏好设置 > 通用* 中将收件箱设置为*默认列表*。
 - 在你回顾收件箱中的任务并给它们加上到期日和适用场景之前，你不会想让这些任务出现在（除了收件箱之外的）其他地方。要隐藏它们，你可以右键点击收件箱列表，选择“不要在 全部任务列表 中显示”。
-
-Now, every new task created via Quick Entry, from Focus lists or Smart Lists will always appear in the Inbox list so you can sort your ideas later.
 
 现在，你从快速添加，聚焦列表和智能列表中创建的任务就总会出现在收件箱列表中了，你可以稍后再来整理它们。
 
-*Note: You can set up Inbox in iOS and Android too, except for the separate appereance in group. This feature is coming to mobile apps soon.*
-
-*注意：你也可以在 iOS 和 Android 设备上设置收件箱，除了不能放在单独的组里之外。这个功能很快会在移动版中提供。*
+注意：你也可以在 iOS 和 Android 设备上设置收件箱，除了不能放在单独的组里之外。这个功能很快会在移动版中提供。*
 
 译者后记：这一篇牵涉到一些 GTD 方法论的概念，而不完全是 2Do 本身的使用方法。2Do 的口号是“从 GTD 到 XYZ，你总能找到适合你的方法”，而它的设计也很好的体现了这一点，没有强制要求使用收件箱就是很突出的一个特点。
 
